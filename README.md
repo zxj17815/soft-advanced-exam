@@ -7,8 +7,8 @@
 | ---  |   ---   |   ---   |  ---  |
 | :white_square_button:   | **1 信息化和信息系统** | *一般* | [第1章](./1)|
 | :white_check_mark:   | 1.1 信息系统与信息化 | *一般* | [第1章](./1/1.md)|
-| :white_square_button:   | 1.2 信息系统开发方法 | ** | [第1章](./1/2.md)|
-| :white_square_button:   | 1.3 常规信息系统集成技术 | ** | [第1章](./1/3.md)|
+| :white_check_mark:    | 1.2 信息系统开发方法 | ** | [第1章](./1/2.md)|
+| :white_check_mark:    | 1.3 常规信息系统集成技术 | ** | [第1章](./1/3.md)|
 | :white_square_button:   | 1.4 软件工程 | ** | [第1章]()|
 | :white_square_button:   | 1.5 新一代信息技术 | ** | [第1章]()|
 | :white_square_button:   | 1.6 信息系统安全技术 | ** | [第1章]()|
